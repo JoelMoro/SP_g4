@@ -1,2 +1,2 @@
-My name is Surita B and this is my diary. My day started
+My name is Julen and this is my diary. My day started
 like any other day, I...
