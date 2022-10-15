@@ -1,6 +1,6 @@
 # Scientific Programming: Practical 2 - Group 4
 
-## Member commands and log
+## Member commands and log :dizzy:
 
 #### Joel Moro
 
