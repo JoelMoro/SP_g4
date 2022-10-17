@@ -20,6 +20,6 @@
 
 - git add .
 
-- git commit -m "Adding my new branch with todays story"
+- git commit -m "Updating README and adding newstory.txt"
 
 - git push origin collaborator_julen
