@@ -17,3 +17,4 @@
 -git add .
 -git commit -m "Adding the commands used to the README.md"
 -git push origin collaborator_gerard
+
