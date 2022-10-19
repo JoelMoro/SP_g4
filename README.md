@@ -1,8 +1,5 @@
 
 
-
-
-=======
 # Scientific Programming: Practical 2 - Group 4
 
 
