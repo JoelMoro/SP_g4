@@ -70,7 +70,7 @@ git commit -m "Pushing to my collaborator branch my personal story"
 git push origin collaborator_gerard
 ````
 
-** Pushing the changes to my branch regarding  the collaborator story and readme
+** Pushing the changes to my branch regarding  the collaborator story and readme**
 ````
 vi collaboratorgerard_story.txt
 
