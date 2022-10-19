@@ -4,25 +4,31 @@
 
 ### Julen Berrueta 
 
-- git branch collaborator_julen
+**Creation of branch and .txt file**
 
-- git checkout collaborator_julen
+````
+git branch collaborator_julen
+git checkout collaborator_julen
+nano collaboratorjulen_story.txt
+````
 
-- nano collaboratorjulen_story.txt
+**Doing the first commit to my branch**
 
-- git add .
+````
+git add .
+git commit -m "Adding my new branch with todays story"
+git push origin collaborator_julen
+````
 
-- git commit -m "Adding my new branch with todays story"
+**Creating newstory.txt and doing the second merch to my branch**
 
-- git push origin collaborator_julen
+````
+cp collaboratorjulen_story.txt newstory.txt
+git add .
+git commit -m "Updating README and adding newstory.txt"
+git push origin collaborator_julen
+````
 
-- cp collaboratorjulen_story.txt newstory.txt
-
-- git add .
-
-- git commit -m "Updating README and adding newstory.txt"
-
-- git push origin collaborator_julen
 
 ### Joel Moro
 
