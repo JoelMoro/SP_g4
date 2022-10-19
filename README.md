@@ -1,5 +1,39 @@
 # Scientific Programming: Practical 2 - Group 4
 
+
+## Command Glossary
+
+* Create branch
+````
+git branch collaborator_xxx
+````
+
+* Move to branch
+```
+git checkout collaborator_xxx
+````
+
+* Create and move to branch
+````
+git checkout -b collaborator_xxx
+````
+
+* Add ALL file contents to the index
+````
+git add .
+````
+
+* Record changes to the repository adding a comment
+````
+git commit -m "Adding my new branch with todays story"
+````
+
+* Upload changes to the branch
+````
+git push origin collaborator_xxx
+````
+
+
 ## Member commands and log :dizzy:
 
 ### Julen Berrueta 
@@ -20,7 +54,7 @@ git commit -m "Adding my new branch with todays story"
 git push origin collaborator_julen
 ````
 
-**Creating newstory.txt and doing the second merch to my branch**
+**Creating newstory.txt and doing the second merge to my branch**
 
 ````
 cp collaboratorjulen_story.txt newstory.txt
@@ -41,10 +75,10 @@ git push origin collaborator_julen
 * Creating the branch and pushing the changes  
 
 ````
- * git checkout -b collaborator_joel 
- * git add . 
- * git commit -m "Pushing to my collaborator branch my personal story" 
- * git push origin collaborator_joel 
+git checkout -b collaborator_joel 
+git add . 
+git commit -m "Pushing to my collaborator branch my personal story" 
+git push origin collaborator_joel 
 
 ````
 * Concatenate our personal story to the group story file called newstory.txt
@@ -62,3 +96,4 @@ git push origin collaborator_joel
 ### Group Commands
 
 * Accepting the merges of the three different branches and resolving the conflicts throught the process
+* Modify README.md with the report specifications
