@@ -2,7 +2,29 @@
 
 ## Member commands and log :dizzy:
 
-#### Joel Moro
+### Julen Berrueta 
+
+- git branch collaborator_julen
+
+- git checkout collaborator_julen
+
+- nano collaboratorjulen_story.txt
+
+- git add .
+
+- git commit -m "Adding my new branch with todays story"
+
+- git push origin collaborator_julen
+
+- cp collaboratorjulen_story.txt newstory.txt
+
+- git add .
+
+- git commit -m "Updating README and adding newstory.txt"
+
+- git push origin collaborator_julen
+
+### Joel Moro
 
  * touch collaboratorjoel_story.txt 
  * vim collaboratorjoel_story.txt - Writting story 
@@ -17,3 +39,4 @@
  * git -m commit "Adding my personal story to newstory.txt"
  * git commit -m "Adding my personal story to newstory.txt"
  * git push origin collaborator_joel
+
