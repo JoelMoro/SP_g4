@@ -156,7 +156,7 @@ git commit -m "Adding my personal story to newstory.txt"
 git push origin collaborator_joel
 ````
 
-### Group Commands
+### Group Commands :dizzy:
 
 * Accepting the merges of the three different branches and resolving the conflicts throught the process
 * Modify README.md with the report specifications
