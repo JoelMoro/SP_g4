@@ -46,7 +46,7 @@ git push origin collaborator_xxx
 
 ### Gerard Font
 
-* Cloning the repository
+**Cloning the repository**
 ````
 git clone git@github.com:JoelMoro/SP_g4.git
 ````
@@ -90,6 +90,11 @@ git push origin collaborator_gerard
 
 ### Julen Berrueta 
 
+**Cloning the repository**
+
+````
+git clone https://github.com/JoelMoro/SP_g4.git
+````
 **Creation of branch and .txt file**
 
 ````
@@ -117,6 +122,12 @@ git push origin collaborator_julen
 
 
 ### Joel Moro
+
+**Cloning the repository**
+
+````
+git clone https://github.com/JoelMoro/SP_g4.git
+````
 
 **Creation and writing of the story**
 ````
