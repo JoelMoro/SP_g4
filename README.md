@@ -3,7 +3,7 @@
 # Scientific Programming: Practical 2 - Group 4
 
 
-## Command Glossary
+## Command Glossary :dizzy:
 
 * Clone repository into the system
 ````
