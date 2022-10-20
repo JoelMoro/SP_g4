@@ -5,6 +5,11 @@
 
 ## Command Glossary
 
+* Clone repository into the system
+````
+git clone https://github.com/CreatorUser/Repository.git
+````
+
 * Create branch
 ````
 git branch collaborator_xxx
@@ -45,10 +50,6 @@ git push origin collaborator_xxx
 ````
 git clone git@github.com:JoelMoro/SP_g4.git
 ````
-
-
-
-
 
 **Creation of branch and .txt file**
 
