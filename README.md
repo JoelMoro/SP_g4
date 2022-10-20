@@ -68,7 +68,7 @@ git commit -m "Pushing to my collaborator branch my personal story"
 git push origin collaborator_gerard
 ````
 
-** Pushing the changes to my branch regarding  the collaborator story and readme**
+**Pushing the changes to my branch regarding  the collaborator story and readme**
 ````
 vi collaboratorgerard_story.txt
 
@@ -118,13 +118,13 @@ git push origin collaborator_julen
 
 ### Joel Moro
 
-* Creation and writing of the story
+**Creation and writing of the story**
 ````
  touch collaboratorjoel_story.txt 
  vim collaboratorjoel_story.txt - Writting story 
 ````
 
-* Creating the branch and pushing the changes  
+**Creating the branch and pushing the changes**
 
 ````
 git checkout -b collaborator_joel 
@@ -133,7 +133,7 @@ git commit -m "Pushing to my collaborator branch my personal story"
 git push origin collaborator_joel 
 
 ````
-* Concatenate our personal story to the group story file called newstory.txt
+**Concatenate our personal story to the group story file called newstory.txt**
 
 ````
 cat newstory.txt collaboratorjoel_story.txt > newstory2.txt
